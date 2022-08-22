@@ -1,0 +1,27 @@
+.title {
+
+    font-size: 50px;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.recipe {
+
+    font-size: 25px;
+    text-align: center;
+    background-color: black;
+    color: white;
+
+}
+
+p {
+
+    text-align: center;
+
+}
+
+ul {
+    text-align: center;
+
+}
